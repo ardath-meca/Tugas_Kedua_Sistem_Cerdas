@@ -1,0 +1,15 @@
+8 13
+Lembang Ciwidey
+Lembang Padalarang 15
+Lembang Cimahi 10
+Lembang Bandung 11
+Padalarang Batujajar 7
+Padalarang Ciwidey 26
+Cimahi Batujajar 5
+Cimahi Soreang 16
+Bandung Cimahi 8
+Bandung Soreang 13
+Bandung Banjaran 13
+Batujajar Banjaran 18
+Soreang Ciwidey 10
+Banjaran Ciwidey 15
