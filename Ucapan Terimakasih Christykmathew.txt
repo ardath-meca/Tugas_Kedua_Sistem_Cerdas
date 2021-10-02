@@ -1,0 +1,8 @@
+Terimakasih banyak untuk @ christykmathew untuk bantuannya dalam pengerjaan tugas ini, 
+mohon ijin untuk menggunakan koding yang ada dilink berikut ini:
+
+https://github.com/christykmathew/Depth-First-and-Breadth-First-Search/blob/master/DFS%20and%20BFS.ipynb
+
+Untuk mengerjakan tugas yang diberikan oleh dosen kami.
+
+Tuhan memberkati anda sekeluarga, sukses selalu
